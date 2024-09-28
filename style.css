@@ -1,0 +1,12 @@
+body{
+ padding: 30px;
+}
+.section-one{
+    background-color: black;
+    color:whitesmoke; 
+    padding: 10px;
+
+}
+.section-one,.section-one__link{
+    list-style: none;
+}
